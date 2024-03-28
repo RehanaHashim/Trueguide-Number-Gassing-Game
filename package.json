@@ -1,0 +1,21 @@
+{
+  "name": "trueguide-number-gassing-game",
+  "version": "1.0.0",
+  "description": "This program is a Number-Gassing-Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "trueguide-number-gassing-game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rehana Hashim",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
